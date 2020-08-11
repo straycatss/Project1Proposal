@@ -124,9 +124,12 @@ img{
 }
 .brandinginfo{
 	margin-top: 180px;
+padding-bottom: 80px;
 }
 .brandinginfo p {
- margin-left: 4%;
+ margin-left: 15%%;
+ margin right: 15%;
+ width: 85%;
 }
 
 .imggrid img{
@@ -137,37 +140,4 @@ img{
 
 
 
-}
-/* Simple grid */
-.g-row{
-	width: 100%;
-	overflow: hidden;
-}
-
-.g-row img{
-	width: 100%; /*This makes all images in grids to be the size of their cell */
-}
-
-.g-50{
-	width: 50%;
-	float: left;
-}
-
-.g-30{
-	width: 30%;
-	float: left;
-}
-
-.g-70{
-	width: 70%;
-	float: left;
-}
-
-.show{
-	border: 1px solid blue;
-	padding: 2px;
-}
-
-.padded{
-	padding: 20px; /* I add this to cells to add a little padding*/
 }
