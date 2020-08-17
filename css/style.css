@@ -137,7 +137,11 @@ padding-bottom: 80px;
 .brandinginfo p {
 
 }
+#Mockup img{
+	background-color: #1a1a1c;
+	padding: 45px;
 
+}
 .imggrid img{
 	border-radius: 18%;
 	padding:25px 25px 25px 25px;
